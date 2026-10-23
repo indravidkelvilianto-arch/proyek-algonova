@@ -28,7 +28,7 @@ app = QApplication([])
 
 main_win = QWidget()
 
-main_win.setWindowTitle('Competition from Crazy People')
+main_win.setWindowTitle('Competition from Crazy People o')
 
 main_win.resize(400, 200)
 
