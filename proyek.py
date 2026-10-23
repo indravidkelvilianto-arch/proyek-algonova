@@ -32,7 +32,7 @@ main_win.setWindowTitle('Competition from Crazy People o')
 
 main_win.resize(400, 200)
 
- 
+ #tes
 
 question = QLabel('What year did the channel receive the "gold play button" from YouTube?')
 
